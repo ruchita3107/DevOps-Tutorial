@@ -1,3 +1,4 @@
 Good morning Friends!
 Have a nice day
-Thimgs are better now
+Things are better now
+New commands in git
