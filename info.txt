@@ -2,3 +2,4 @@ Good morning Friends!
 Have a nice day
 Things are better now
 New commands in git
+Adding fourth line in editor
